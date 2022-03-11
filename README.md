@@ -2,7 +2,7 @@
 
 > Status: Completed ✔️
 
-## Sobre
+## About
 <p>it's a console application made in the Java OOP course with Professor Nélio Alves<br>
 </p>
 
