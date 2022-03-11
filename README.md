@@ -7,12 +7,9 @@
 </p>
 
 ## Pieces
-* Pawn = P <br>
-* Bishop = B <br>
-* Knight = N <br>
-* Rook = R <br>
-* Queen = Q <br>
-* King = K
 
-![GAME](https://github.com/OlaLeonardoAmaral/assets/blob/main/game.gif)
+
+
+  
+
 
